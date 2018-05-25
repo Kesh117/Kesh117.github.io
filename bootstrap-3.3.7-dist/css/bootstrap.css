@@ -6754,4 +6754,10 @@ button.close {
     display: none !important;
   }
 }
+.Lista1{
+  float: left;
+  overflow-y: auto;
+  height: 200px;
+  width: all;
+}
 /*# sourceMappingURL=bootstrap.css.map */
